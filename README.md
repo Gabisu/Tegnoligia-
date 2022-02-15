@@ -1,2 +1,1 @@
-# Tegnoligia-
-Creando un repositorio 
+<header> trabajo en pasgina web
