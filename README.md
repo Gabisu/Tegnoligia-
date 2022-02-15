@@ -1,1 +1,1 @@
-<header> trabajo en pasgina web
+<!DOCTYPE html>
